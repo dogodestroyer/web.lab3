@@ -1,0 +1,22 @@
+#fubuki{
+    position: absolute;
+    left: 5px;
+    width: 40%;
+}
+
+#header{
+    font-size: 28px;
+}
+
+.text_for_intro{
+    position: absolute;
+    left: 800px;
+    font-size: 28px;
+}
+
+.write_name{
+    position:absolute;
+    right: 10px;
+    bottom: 10px;
+    font-size: 20px;
+}
